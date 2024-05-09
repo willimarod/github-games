@@ -4,11 +4,12 @@ A project based learning activity for people who are getting started with Git an
 
 Cambio 4 QA
 
-<<<<<<< HEAD
 prueba de push
-=======
+
 prueba
->>>>>>> 0d555e8af3900ff7083604eec688e49e723e1ffc
+
+Cambio 1.1
+
 
 You can play the game at: https://githubschool.github.io/github-games/
 
