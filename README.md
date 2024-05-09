@@ -2,11 +2,8 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-<<<<<<< HEAD
-prueba de push
-=======
-prueba
->>>>>>> 0d555e8af3900ff7083604eec688e49e723e1ffc
+Cambio 1
+
 
 You can play the game at: https://githubschool.github.io/github-games/
 
